@@ -88,7 +88,7 @@ class Names extends React.Component<MyProps, MyState> {
       }
     } else {
       let error: Array<string> = [...this.state.error];
-      if (error.length == 0) {
+      if (error.length === 0) {
         error.push("All names of guests are entred");
         this.setState({ error });
       }
