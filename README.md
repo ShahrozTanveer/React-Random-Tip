@@ -17,3 +17,17 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+### Author
+
+**Sharoz Tanveer**
+
+* [LinkedIn Profile](https://www.linkedin.com/in/sharoztanveer/)
+* [GitHub Profile](https://github.com/ShahrozTanveer)
+* [Twitter Profile](https://twitter.com/saadtanveer3121)
+
+### License
+
+Copyright © 2020, [Sharoz Tanveer](https://github.com/ShahrozTanveer).
+Released under the [MIT License](LICENSE).
